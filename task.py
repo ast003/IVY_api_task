@@ -1,7 +1,7 @@
 import requests
 import time
 
-BASE_URL = "http://35.200.185.69:8000/v3/autocomplete"
+BASE_URL = "http://35.200.185.69:8000/v3/autocomplete"  # changed v1 v2 v3 accordingly
 QUERY_PARAMS = "query={}"  # Modify as needed
 RATE_LIMIT_WAIT = 5  # Initial wait time in seconds after rate limiting
 
