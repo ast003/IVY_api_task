@@ -1,0 +1,7 @@
+Request 113: Status 200
+Request 114: Status 200
+Request 115: Status 200
+Request 116: Status 429
+Rate limit reached! Waiting 5 seconds...
+Request 117: Status 429
+Rate limit reached! Waiting 5 seconds..
